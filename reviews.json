@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "username": "vt_leaf_peeper",
+    "date": "2026-10-02",
+    "rating": 8,
+    "title": "Didn't expect to cry over a tractor",
+    "text": "Went in expecting a slow indie drama and got hit way harder than I thought. The scene where she walks the north field at dawn, deciding whether to sign the developer's offer, is one of the best quiet moments I've seen in a movie this year. The lead's performance carries the whole thing.",
+    "helpful": 42
+  },
+  {
+    "id": 2,
+    "username": "reelcritic_dan",
+    "date": "2026-10-02",
+    "rating": 6,
+    "title": "Beautiful but a little too restrained",
+    "text": "The cinematography of the Vermont farmland is gorgeous, genuinely some of the best use of natural light I've seen in a small drama. My issue is pacing — the middle act drags once the will-she-won't-she-sell plot stalls. Still worth watching for the final harvest sequence alone.",
+    "helpful": 29
+  },
+  {
+    "id": 3,
+    "username": "farmhouse_fran",
+    "date": "2026-10-03",
+    "rating": 9,
+    "title": "This is my family's story",
+    "text": "My grandparents ran a dairy farm for three generations before we lost it. This movie gets the grief of land you love exactly right — it's not melodramatic about it, it just sits with you in the loss. The father's old barn journal subplot wrecked me.",
+    "helpful": 61
+  },
+  {
+    "id": 4,
+    "username": "popcorn_pete",
+    "date": "2026-10-04",
+    "rating": 5,
+    "title": "Respectable but slow",
+    "text": "I can tell a lot of craft went into this, the score especially, but it's a very quiet movie and I mean that literally — there are stretches with almost no dialogue. If you want something with more momentum this might test your patience.",
+    "helpful": 18
+  },
+  {
+    "id": 5,
+    "username": "maple_and_moss",
+    "date": "2026-10-04",
+    "rating": 8,
+    "title": "November has never looked so heavy",
+    "text": "Every frame feels like it's bracing for winter, which fits the story perfectly. The developer character could've been a cartoon villain but the writing gives him an actual argument, which makes her decision so much harder to watch unfold.",
+    "helpful": 35
+  },
+  {
+    "id": 6,
+    "username": "skeptical_sam",
+    "date": "2026-10-05",
+    "rating": 4,
+    "title": "Didn't connect with it",
+    "text": "I wanted to like this more. The grief angle felt a bit distant to me, like the film kept its emotional cards too close. Gorgeous to look at, but I never fully got inside her head the way I think it wanted me to.",
+    "helpful": 11
+  },
+  {
+    "id": 7,
+    "username": "greenmountain_gal",
+    "date": "2026-10-05",
+    "rating": 9,
+    "title": "Best farm movie since forever",
+    "text": "The final harvest sequence is quietly triumphant without ever feeling cheesy. Loved that the ending doesn't pretend the hard choice gets easier, it just shows her choosing to try one more season. Score by itself is worth the price of admission.",
+    "helpful": 47
+  },
+  {
+    "id": 8,
+    "username": "aisle_seat_amy",
+    "date": "2026-10-06",
+    "rating": 7,
+    "title": "A slow burn that pays off",
+    "text": "First hour is a lot of silence and wide shots of frost on the fields, which won't be for everyone. But once her brother shows up and the real family tension surfaces, it clicks into place. Stuck with me for days after.",
+    "helpful": 24
+  },
+  {
+    "id": 9,
+    "username": "cinemasomething22",
+    "date": "2026-10-07",
+    "rating": 7,
+    "title": "Quietly devastating",
+    "text": "Not a lot happens plot-wise in the traditional sense, it's really a character study of someone deciding what a legacy is actually worth. The lead actress does so much with just her face in the harvest scenes.",
+    "helpful": 20
+  },
+  {
+    "id": 10,
+    "username": "bargain_bin_critic",
+    "date": "2026-10-08",
+    "rating": 6,
+    "title": "Good, not great",
+    "text": "Solid performances, nice score, the kind of movie that will clean up at smaller festivals. It doesn't do anything especially new with the 'save the family land' premise but it executes the familiar beats well.",
+    "helpful": 9
+  },
+  {
+    "id": 11,
+    "username": "northcountry_nick",
+    "date": "2026-10-08",
+    "rating": 8,
+    "title": "Felt like autumn in Vermont, for real",
+    "text": "As someone who's actually driven through that part of Vermont in late October, the production design nailed it. The widow's grief never feels performative, it's all in how she moves through the house and barn. Underrated supporting cast too.",
+    "helpful": 31
+  },
+  {
+    "id": 12,
+    "username": "thirdrow_theresa",
+    "date": "2026-10-09",
+    "rating": 9,
+    "title": "One of the year's best",
+    "text": "I went in cold and came out thinking about my own family's history for the rest of the night. The scene where she reads her father's handwriting on the seed ledgers is understated and devastating at once. Don't skip the credits song.",
+    "helpful": 53
+  },
+  {
+    "id": 13,
+    "username": "notaprofcritic",
+    "date": "2026-10-09",
+    "rating": 5,
+    "title": "Mixed feelings",
+    "text": "Visually stunning, emotionally it didn't land as hard for me as it clearly has for others here. Might just be a me problem. Worth a watch for the harvest sequence and the lead performance regardless.",
+    "helpful": 14
+  },
+  {
+    "id": 14,
+    "username": "porchlight_pam",
+    "date": "2026-10-09",
+    "rating": 8,
+    "title": "Brought my mom, we both cried",
+    "text": "This is the kind of quiet, patient filmmaking that used to get more attention. The ending doesn't resolve everything neatly and that's exactly why it works. Already want to watch it again once it's out digitally.",
+    "helpful": 38
+  }
+]

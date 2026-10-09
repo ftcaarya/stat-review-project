@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>The Quiet Harvest — Reviews | ScreenTalk Forum</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌾</text></svg>" />
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap">
+    <span class="logo">🌾 ScreenTalk Forum</span>
+    <span class="tagline">Reviews, discussion, and ratings from real moviegoers</span>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <section class="movie-banner">
+    <div class="poster" aria-hidden="true">
+      <div class="poster-title">THE<br>QUIET<br>HARVEST</div>
+      <div class="poster-sub">a film about what we leave behind</div>
+    </div>
+    <div class="movie-info">
+      <h1>The Quiet Harvest</h1>
+      <p class="meta-line">Drama &middot; 2026 &middot; Rural Vermont</p>
+      <p class="synopsis">
+        After a failed harvest threatens to end her family's century-old farm, a quiet,
+        grieving widow in rural Vermont must decide whether to sell the land to developers
+        or fight to keep her father's legacy alive through one final November harvest.
+      </p>
+
+      <div class="score-block">
+        <div class="score-number" id="avg-score">–</div>
+        <div class="score-details">
+          <div class="score-label">Average rating out of 10</div>
+          <div class="score-count" id="review-count">– reviews</div>
+        </div>
+      </div>
+
+      <div class="distribution" id="distribution" aria-label="Rating distribution"></div>
+    </div>
+  </section>
+
+  <section class="controls">
+    <h2>Reviews</h2>
+    <div class="controls-right">
+      <label for="sort-select">Sort by</label>
+      <select id="sort-select">
+        <option value="recent">Most recent</option>
+        <option value="highest">Highest rated</option>
+        <option value="lowest">Lowest rated</option>
+        <option value="helpful">Most helpful</option>
+      </select>
+    </div>
+  </section>
+
+  <section id="review-list" class="review-list" aria-live="polite"></section>
+
+  <section class="write-review">
+    <h2>Add your review</h2>
+    <form id="review-form">
+      <div class="form-row">
+        <input type="text" id="input-username" placeholder="Your name" required maxlength="40" />
+        <select id="input-rating" required>
+          <option value="" disabled selected>Rating</option>
+          <option value="10">10 — Masterpiece</option>
+          <option value="9">9</option>
+          <option value="8">8</option>
+          <option value="7">7</option>
+          <option value="6">6</option>
+          <option value="5">5</option>
+          <option value="4">4</option>
+          <option value="3">3</option>
+          <option value="2">2</option>
+          <option value="1">1</option>
+        </select>
+      </div>
+      <input type="text" id="input-title" placeholder="Review title" required maxlength="80" />
+      <textarea id="input-text" placeholder="What did you think?" required maxlength="600" rows="3"></textarea>
+      <button type="submit">Post review</button>
+    </form>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">Mock forum built for a stats class project &middot; not a real film &middot; all reviews are fictional</div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
